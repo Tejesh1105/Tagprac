@@ -1,6 +1,6 @@
 # Prerequisites
-#
-- JDK 17 
+# JDK Version changed from 17 to 21. In 2025
+- JDK 21 
 - Maven 3.9 
 - MySQL 8
 
